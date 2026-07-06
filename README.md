@@ -45,3 +45,4 @@ Project ini adalah sistem CRUD sederhana menggunakan framework CodeIgniter 4. Da
 - `/tambah` : halaman tambah data mahasiswa
 - `/edit/{nim}` : halaman edit data mahasiswa
 - `/hapus/{nim}` : menghapus data mahasiswa
+# Praktikum Web Programming_BAB VI_GitHub_Tim 3_2026 
