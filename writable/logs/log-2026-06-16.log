@@ -1,0 +1,372 @@
+CRITICAL - 2026-06-16 07:10:59 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "helloworld.php"
+[Method: GET, Route: latihanview]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('helloworld.php')
+ 2 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('helloworld', [], true)
+ 3 APPPATH\Controllers\HelloWorld1.php(9): view('helloworld')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\HelloWorld1->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HelloWorld1))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+CRITICAL - 2026-06-16 07:12:41 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "helloworld.php"
+[Method: GET, Route: latihanview]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('helloworld.php')
+ 2 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('helloworld', [], true)
+ 3 APPPATH\Controllers\HelloWorld1.php(9): view('helloworld')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\HelloWorld1->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HelloWorld1))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+CRITICAL - 2026-06-16 07:13:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "helloworld.php"
+[Method: GET, Route: latihanview]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('helloworld.php')
+ 2 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('helloworld', [], true)
+ 3 APPPATH\Controllers\HelloWorld1.php(9): view('helloworld')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\HelloWorld1->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HelloWorld1))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+CRITICAL - 2026-06-16 07:13:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "helloworld.php"
+[Method: GET, Route: latihanview]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('helloworld.php')
+ 2 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('helloworld', [], true)
+ 3 APPPATH\Controllers\HelloWorld1.php(9): view('helloworld')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\HelloWorld1->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HelloWorld1))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+CRITICAL - 2026-06-16 07:13:39 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "helloworld.php"
+[Method: GET, Route: latihanview]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('helloworld.php')
+ 2 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('helloworld', [], true)
+ 3 APPPATH\Controllers\HelloWorld1.php(9): view('helloworld')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\HelloWorld1->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HelloWorld1))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+CRITICAL - 2026-06-16 07:13:39 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "helloworld.php"
+[Method: GET, Route: latihanview]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('helloworld.php')
+ 2 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('helloworld', [], true)
+ 3 APPPATH\Controllers\HelloWorld1.php(9): view('helloworld')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\HelloWorld1->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HelloWorld1))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+CRITICAL - 2026-06-16 07:13:39 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "helloworld.php"
+[Method: GET, Route: latihanview]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('helloworld.php')
+ 2 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('helloworld', [], true)
+ 3 APPPATH\Controllers\HelloWorld1.php(9): view('helloworld')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\HelloWorld1->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HelloWorld1))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+CRITICAL - 2026-06-16 07:13:39 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "helloworld.php"
+[Method: GET, Route: latihanview]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('helloworld.php')
+ 2 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('helloworld', [], true)
+ 3 APPPATH\Controllers\HelloWorld1.php(9): view('helloworld')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\HelloWorld1->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HelloWorld1))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+CRITICAL - 2026-06-16 07:13:39 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "helloworld.php"
+[Method: GET, Route: latihanview]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('helloworld.php')
+ 2 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('helloworld', [], true)
+ 3 APPPATH\Controllers\HelloWorld1.php(9): view('helloworld')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\HelloWorld1->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HelloWorld1))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+CRITICAL - 2026-06-16 07:13:39 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "helloworld.php"
+[Method: GET, Route: latihanview]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('helloworld.php')
+ 2 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('helloworld', [], true)
+ 3 APPPATH\Controllers\HelloWorld1.php(9): view('helloworld')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\HelloWorld1->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HelloWorld1))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+CRITICAL - 2026-06-16 07:13:40 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "helloworld.php"
+[Method: GET, Route: latihanview]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('helloworld.php')
+ 2 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('helloworld', [], true)
+ 3 APPPATH\Controllers\HelloWorld1.php(9): view('helloworld')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\HelloWorld1->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HelloWorld1))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+CRITICAL - 2026-06-16 07:13:40 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "helloworld.php"
+[Method: GET, Route: latihanview]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('helloworld.php')
+ 2 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('helloworld', [], true)
+ 3 APPPATH\Controllers\HelloWorld1.php(9): view('helloworld')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\HelloWorld1->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HelloWorld1))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+CRITICAL - 2026-06-16 07:14:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "helloworld.php"
+[Method: GET, Route: latihanview]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('helloworld.php')
+ 2 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('helloworld', [], true)
+ 3 APPPATH\Controllers\HelloWorld1.php(9): view('helloworld')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\HelloWorld1->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HelloWorld1))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+CRITICAL - 2026-06-16 07:14:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "helloworld.php"
+[Method: GET, Route: latihanview]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('helloworld.php')
+ 2 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('helloworld', [], true)
+ 3 APPPATH\Controllers\HelloWorld1.php(9): view('helloworld')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\HelloWorld1->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HelloWorld1))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+CRITICAL - 2026-06-16 07:14:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "helloworld.php"
+[Method: GET, Route: latihanview]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('helloworld.php')
+ 2 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('helloworld', [], true)
+ 3 APPPATH\Controllers\HelloWorld1.php(9): view('helloworld')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\HelloWorld1->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HelloWorld1))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+CRITICAL - 2026-06-16 07:14:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "helloworld.php"
+[Method: GET, Route: latihanview]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('helloworld.php')
+ 2 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('helloworld', [], true)
+ 3 APPPATH\Controllers\HelloWorld1.php(9): view('helloworld')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\HelloWorld1->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HelloWorld1))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+CRITICAL - 2026-06-16 07:14:35 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "helloworld.php"
+[Method: GET, Route: latihanview]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('helloworld.php')
+ 2 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('helloworld', [], true)
+ 3 APPPATH\Controllers\HelloWorld1.php(9): view('helloworld')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\HelloWorld1->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HelloWorld1))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+ERROR - 2026-06-16 09:01:09 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'praktikum' in C:\xam\htdocs\praktikum\system\Database\MySQLi\Connection.php:201
+Stack trace:
+#0 C:\xam\htdocs\praktikum\system\Database\MySQLi\Connection.php(201): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'praktikum', 3306, '', 0)
+#1 C:\xam\htdocs\praktikum\system\Database\BaseConnection.php(555): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xam\htdocs\praktikum\system\Database\BaseConnection.php(795): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xam\htdocs\praktikum\app\Controllers\Crud.php(21): CodeIgniter\Database\BaseConnection->query('CREATE TABLE IF...')
+#4 C:\xam\htdocs\praktikum\app\Controllers\Crud.php(32): App\Controllers\Crud->buatTabelJikaBelumAda()
+#5 C:\xam\htdocs\praktikum\system\CodeIgniter.php(974): App\Controllers\Crud->index()
+#6 C:\xam\htdocs\praktikum\system\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xam\htdocs\praktikum\system\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xam\htdocs\praktikum\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#9 C:\xam\htdocs\praktikum\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xam\htdocs\praktikum\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 C:\xam\htdocs\praktikum\system\rewrite.php(44): require_once('C:\\xam\\htdocs\\p...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'praktikum' in C:\xam\htdocs\praktikum\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xam\htdocs\praktikum\system\Database\BaseConnection.php(555): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xam\htdocs\praktikum\system\Database\BaseConnection.php(795): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xam\htdocs\praktikum\app\Controllers\Crud.php(21): CodeIgniter\Database\BaseConnection->query('CREATE TABLE IF...')
+#3 C:\xam\htdocs\praktikum\app\Controllers\Crud.php(32): App\Controllers\Crud->buatTabelJikaBelumAda()
+#4 C:\xam\htdocs\praktikum\system\CodeIgniter.php(974): App\Controllers\Crud->index()
+#5 C:\xam\htdocs\praktikum\system\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#6 C:\xam\htdocs\praktikum\system\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xam\htdocs\praktikum\system\Boot.php(417): CodeIgniter\CodeIgniter->run()
+#8 C:\xam\htdocs\praktikum\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#9 C:\xam\htdocs\praktikum\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#10 C:\xam\htdocs\praktikum\system\rewrite.php(44): require_once('C:\\xam\\htdocs\\p...')
+#11 {main}
+CRITICAL - 2026-06-16 09:01:09 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'praktikum'
+[Method: GET, Route: crud]
+in SYSTEMPATH\Database\BaseConnection.php on line 606.
+ 1 SYSTEMPATH\Database\BaseConnection.php(795): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Crud.php(21): CodeIgniter\Database\BaseConnection->query('CREATE TABLE IF NOT EXISTS mahasiswa (
+            nim VARCHAR(20) NOT NULL PRIMARY KEY,
+            nama VARCHAR(100) NOT NULL,
+            prodi VARCHAR(100) NOT NULL,
+            universitas VARCHAR(150) NOT NULL,
+            nomor_handphone VARCHAR(20) NOT NULL
+        )')
+ 3 APPPATH\Controllers\Crud.php(32): App\Controllers\Crud->buatTabelJikaBelumAda()
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Crud->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+DEBUG - 2026-06-16 09:04:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 09:04:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 09:11:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 09:12:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 09:13:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 09:13:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 15:44:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 15:59:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:01:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:01:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:03:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:03:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-06-16 16:03:28 --> ErrorException: Undefined array key "nomor_handphone"
+[Method: GET, Route: edit/326024000123]
+in APPPATH\Views\CRUD\Edit.php on line 35.
+ 1 APPPATH\Views\CRUD\Edit.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nomor_handphone"', 'C:\\xam\\htdocs\\praktikum\\app\\Views\\CRUD\\Edit.php', 35)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xam\\htdocs\\praktikum\\app\\Views\\CRUD\\Edit.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('CRUD/Edit', [], true)
+ 5 APPPATH\Controllers\Crud.php(98): view('CRUD/Edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Crud->edit('326024000123')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+DEBUG - 2026-06-16 16:07:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:10:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-06-16 16:10:21 --> ErrorException: Undefined array key "nomor_handphone"
+[Method: GET, Route: edit/326024000123]
+in APPPATH\Views\CRUD\Edit.php on line 35.
+ 1 APPPATH\Views\CRUD\Edit.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nomor_handphone"', 'C:\\xam\\htdocs\\praktikum\\app\\Views\\CRUD\\Edit.php', 35)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xam\\htdocs\\praktikum\\app\\Views\\CRUD\\Edit.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('CRUD/Edit', [], true)
+ 5 APPPATH\Controllers\Crud.php(98): view('CRUD/Edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Crud->edit('326024000123')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+DEBUG - 2026-06-16 16:10:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-06-16 16:10:26 --> ErrorException: Undefined array key "nomor_handphone"
+[Method: GET, Route: edit/326024000123]
+in APPPATH\Views\CRUD\Edit.php on line 35.
+ 1 APPPATH\Views\CRUD\Edit.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nomor_handphone"', 'C:\\xam\\htdocs\\praktikum\\app\\Views\\CRUD\\Edit.php', 35)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xam\\htdocs\\praktikum\\app\\Views\\CRUD\\Edit.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('CRUD/Edit', [], true)
+ 5 APPPATH\Controllers\Crud.php(98): view('CRUD/Edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Crud->edit('326024000123')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+DEBUG - 2026-06-16 16:10:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-06-16 16:10:49 --> ErrorException: Undefined array key "nomor_handphone"
+[Method: GET, Route: edit/326024000123]
+in APPPATH\Views\CRUD\Edit.php on line 35.
+ 1 APPPATH\Views\CRUD\Edit.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nomor_handphone"', 'C:\\xam\\htdocs\\praktikum\\app\\Views\\CRUD\\Edit.php', 35)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xam\\htdocs\\praktikum\\app\\Views\\CRUD\\Edit.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1254): CodeIgniter\View\View->render('CRUD/Edit', [], true)
+ 5 APPPATH\Controllers\Crud.php(98): view('CRUD/Edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Crud->edit('326024000123')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xam\\htdocs\\praktikum\\public\\index.php')
+DEBUG - 2026-06-16 16:11:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:12:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:13:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:13:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:14:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:14:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:14:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:15:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:15:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:18:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:19:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:19:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:19:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:19:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:19:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:20:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:20:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:21:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:23:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:24:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:24:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-06-16 16:24:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
