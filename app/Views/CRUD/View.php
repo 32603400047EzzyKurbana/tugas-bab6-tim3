@@ -11,7 +11,7 @@
                 <p class="label">Bab VI - CRUD Sederhana CI4</p>
                 <h1>Data Mahasiswa</h1>
                 <h2>Tim 3</h2>
-                <p>Ezzy Kurbana, Zachari Yazid, Raafi Prawira Setiamudo, M. Aldriyan Saputra Andriansya, dan Eky Syaifuddin Ibnu Pratama.</p>
+                <p>Ezzy Kurbana, Zachari Yazid, Raafi Prawira Setiamudo, M. Adriyan Saputra Anugra, dan Eky Syaifuddin Ibnu Pratama.</p>
                 <p>Halaman ini menampilkan data mahasiswa dari database.</p>
             </div>
         </div>
