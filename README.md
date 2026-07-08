@@ -7,7 +7,7 @@ Tim 3
 1. Ezzy Kurbana
 2. Zachari Yazid
 3. Raafi Prawira Setiamudo
-4. M. Aldriyan Saputra Andriansya
+4. M. Adriyan Saputra Anugra 
 5. Eky Syaifuddin Ibnu Pratama
 
 ## Judul Project
