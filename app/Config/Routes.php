@@ -3,7 +3,15 @@
 use CodeIgniter\Router\RouteCollection;
 
 /** @var RouteCollection $routes */
-$routes->get('/', 'Home::index');
+
+// Route utama BAB 6
+$routes->get('/', 'Bab6::index');
+$routes->get('bab6', 'Bab6::index');
+$routes->get('bab6/tambah', 'Bab6::tambah');
+$routes->post('bab6/simpan', 'Bab6::simpan');
+$routes->get('bab6/edit/(:num)', 'Bab6::edit/$1');
+$routes->post('bab6/update/(:num)', 'Bab6::update/$1');
+$routes->get('bab6/hapus/(:num)', 'Bab6::hapus/$1');
 
 // Route bab sebelumnya
 $routes->get('form', 'Mahasiswa::form');
